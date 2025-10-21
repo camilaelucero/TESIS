@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "label": "Politizar el malestar",
+      "info": "...",
+      "constellation": "cabeza",
+      "physics": true,
+      "x": 367.0518305347929,
+      "y": 410.2335023774924
+    },
+    {
+      "id": 2,
+      "label": "Capitalismo cognitivo",
+      "info": "tendencias",
+      "constellation": "cabeza",
+      "physics": true,
+      "x": 455.99436572847003,
+      "y": 164.0275159542121
+    },
+    {
+      "id": 3,
+      "label": "Trabajo",
+      "info": "cognitivo",
+      "constellation": "cabeza",
+      "physics": true,
+      "x": -36.353361966765135,
+      "y": 343.83170226850444
+    },
+    {
+      "id": 4,
+      "label": "Subjetividad",
+      "info": "racionalidad neoliberal",
+      "constellation": "cabeza",
+      "physics": true,
+      "x": 172.1515423948149,
+      "y": 579.0374921884847
+    },
+    {
+      "id": 6,
+      "label": "Salud",
+      "info": "capitalismo",
+      "constellation": "cabeza",
+      "physics": true,
+      "x": 16.14213216592225,
+      "y": 112.93444979233647
+    },
+    {
+      "id": 7,
+      "label": "Depresión",
+      "info": "...",
+      "constellation": "cabeza",
+      "physics": true,
+      "x": -61.547229657171556,
+      "y": 324.78664565113013
+    }
+  ],
+  "edges": [
+    {
+      "from": 1,
+      "to": 2,
+      "id": "3d570566-e8e3-4a98-ad64-7ef4e6cb20f0"
+    },
+    {
+      "from": 1,
+      "to": 3,
+      "id": "279098b1-6980-4209-bf3c-836aa860990e"
+    },
+    {
+      "from": 3,
+      "to": 6,
+      "id": "d6f279aa-eba2-463b-bf16-1ad2abf11372"
+    },
+    {
+      "from": 6,
+      "to": 7,
+      "id": "2443fa61-78b5-4dee-bb20-b90e4c3f9554"
+    },
+    {
+      "from": 4,
+      "to": 1,
+      "id": "4c8711ac-28d7-473f-96a8-48c23cf1c7b5"
+    },
+    {
+      "from": 3,
+      "to": 4,
+      "id": "badccf26-f0ab-46e0-a870-ed56d283a246"
+    },
+    {
+      "from": 2,
+      "to": 3,
+      "id": "d72683c0-3bd7-40ea-b9d3-a5434121c7a1"
+    }
+  ]
+}
